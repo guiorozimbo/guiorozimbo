@@ -25,4 +25,4 @@
   
    ![Snake animation](https://github.com/guiorozimbo/guiorozimbo/blob/output/github-contribution-grid-snake.svg)
    
-    </div>
+   </div>
