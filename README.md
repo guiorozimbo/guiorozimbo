@@ -16,7 +16,8 @@
   <img align="center" alt="Oro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Oro-mysql"height="35" width="45"src="https://github.com/Thomas-Boi/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Oro-mysql"height="50" width="50"src="https://github.com/Thomas-Boi/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Oro-nodejs" height="60" width="60"  src=https://github.com/Thomas-Boi/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg>
 </div>
   
  ##
