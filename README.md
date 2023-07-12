@@ -1,6 +1,6 @@
 ### Hello I'm Guilherme Orozimbo👋
 
-- 🌱 I currently study javascript,Typescript,C# and mySql
+- 🌱 I currently study javascript,Typescript,C#,PHP and mySql
 - 👨🏽‍💻 I mess with backend and frontend
 - 😄 Pronouns: him/his
 
