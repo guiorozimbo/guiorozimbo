@@ -2,7 +2,7 @@
 
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
 - 👨🏽‍💻 I mess with backend and frontend
-- 😄 Pronouns: him/his
+- 😄 Pronouns: he/him
 
 <div align="center">
  <a href="https://github.com/guiorozimbo">
