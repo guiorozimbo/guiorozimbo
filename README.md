@@ -34,6 +34,6 @@
   <a href="https://github.com/guiorozimbo"><img alt="Visits Number at Profile" src="https://komarev.com/ghpvc/?username=guiorozimbo&color=lightgrey&style=flat-square&label=Visitas"></a>
 </div>
  
-   ![Snake animation](https://github.com/guiorozimbo/guiorozimbo/blob/output/github-contribution-grid-snake.svg)
+  
    
    
