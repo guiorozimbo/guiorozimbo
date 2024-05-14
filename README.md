@@ -1,7 +1,5 @@
 ### Hello I'm Guilherme Orozimbo👋
-<a href="https://github.com/guiorozimbo">
-  <img align="right" height="590em" src="https://gh-card.dev/repos/guiorozimbo" alt="Guilherme Orozimbo's GitHub Card">
-</a>
+
 
 
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
