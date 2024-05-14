@@ -1,6 +1,6 @@
 ### Hello I'm Guilherme Orozimbo👋
 <a href="https://github.com/guiorozimbo">
-  <img align="right" height="590em" src="https://avatars.githubusercontent.com/guiorozimbo" alt="Guilherme Orozimbo">
+  <img align="right" height="590em" src="https://gh-card.dev/repos/guiorozimbo" alt="Guilherme Orozimbo's GitHub Card">
 </a>
 
 
