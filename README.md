@@ -1,4 +1,7 @@
 ### Hello I'm Guilherme Orozimbo👋
+<a href="https://github.com/guiorozimbo">
+  <img align="right" height="590em" src="https://avatars.githubusercontent.com/guiorozimbo">
+</a>
 
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
 - 👨🏽‍💻 I mess with backend and frontend
