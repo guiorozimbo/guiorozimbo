@@ -33,7 +33,14 @@
    <a href="mailto:guilhermegv890@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+ <h2 align="left">🧰 Tools/Frameworks 🧰</h2>
  
+ <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,bootstrap,vscode,Windows,linux,nodejs,postman" />
+  </a>
+</p>
+
  <br>
   <div align='center'>
   <a href="https://github.com/guiorozimbo"><img alt="Visits Number at Profile" src="https://komarev.com/ghpvc/?username=guiorozimbo&color=lightgrey&style=flat-square&label=Visitas"></a>
