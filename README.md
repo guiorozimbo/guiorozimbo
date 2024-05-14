@@ -44,7 +44,7 @@
 
 > Yup, *I use Ubuntu btw* 😁
  <a alt="Ubuntu">
-  <img alt="Ubuntu Linux" src="[https://img.shields.io/badge/Arch-E95420?style=for-the-badge&logo=archlinux&logoColor=blue&color=white](https://img.shields.io/badge/Ubuntu-C51A4A?style=for-the-badge&logo=ubuntu](https://img.shields.io/badge/Ubuntu-C51A4A?style=for-the-badge&logo=ubuntu)" />
+  <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-C51A4A?style=for-the-badge&logo=ubuntu" />
   </a>
 <p>
  <br>
