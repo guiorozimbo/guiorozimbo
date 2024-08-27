@@ -3,7 +3,7 @@
 
 
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
-- 👨🏽‍💻 I mess with backend and frontend
+- 👨🏽‍💻 I mess with developer fullstack 
 - 😄 Pronouns: he/him
 
 <div align="center">
