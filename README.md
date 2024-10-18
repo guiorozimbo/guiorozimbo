@@ -5,7 +5,7 @@
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
 - 👨🏽‍💻 I mess with developer fullstack 
 - 😄 Pronouns: he/him
-
+Guilherme_Orozimbo_CV.pdf
 <div align="center">
  <a href="https://github.com/guiorozimbo">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiorozimbo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
