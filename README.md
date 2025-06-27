@@ -41,13 +41,22 @@
 </p>
 <h2>🐧 OS/Distros 🐧 </h2>
 
-> Yup, *I use Ubuntu and Fedora btw* 😁
+> Yup, *I use Ubuntu, Fedora, Mint, and Windows 10/11 btw* 😁
 
 <a alt="Ubuntu">
   <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-C51A4A?style=for-the-badge&logo=ubuntu" />
 </a>
 <a alt="Fedora">
   <img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+</a>
+<a alt="Linux Mint">
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+</a>
+<a alt="Windows 11">
+  <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+</a>
+<a alt="Windows 10">
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
  <br>
