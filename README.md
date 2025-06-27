@@ -39,13 +39,17 @@
     <img src="https://skillicons.dev/icons?i=github,git,bootstrap,vscode,windows,linux,nodejs,postman" />
   </a>
 </p>
- <h2>🐧 OS/Distros 🐧 </h2>
+<h2>🐧 OS/Distros 🐧 </h2>
 
-> Yup, *I use Ubuntu btw* 😁
- <a alt="Ubuntu">
+> Yup, *I use Ubuntu and Fedora btw* 😁
+
+<a alt="Ubuntu">
   <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-C51A4A?style=for-the-badge&logo=ubuntu" />
-  </a>
-<p>
+</a>
+<a alt="Fedora">
+  <img alt="Fedora Linux" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+</a>
+
  <br>
   <div align='center'>
   <a href="https://github.com/guiorozimbo"><img alt="Visits Number at Profile" src="https://komarev.com/ghpvc/?username=guiorozimbo&color=lightgrey&style=flat-square&label=Visitas"></a>
