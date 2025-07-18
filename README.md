@@ -21,6 +21,7 @@
   <img align="center" alt="Oro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Oro-PHP" height="60" width="60"  src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg>
+    <img align="center" alt="Oro-Laravel" height="60" width="60"  src="https://camo.githubusercontent.com/b45646b731e79ad9658e91d504a457299ba8bb65a838c87426ec11a1b044102e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c61726176656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61726176656c266c6f676f436f6c6f723d666632643230">
   <img align="center" alt="Oro-mysql"height="50" width="50"src="https://github.com/Thomas-Boi/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="Oro-nodejs" height="60" width="60"  src=https://github.com/Thomas-Boi/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg>
    
