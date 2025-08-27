@@ -4,8 +4,6 @@
 
 - 🌱 I currently study javascript,Typescript,C#,PHP and mySql
 - 👨🏽‍💻 I mess with developer backend 
-- 😄 Pronouns: he/him
-
 
   
  
