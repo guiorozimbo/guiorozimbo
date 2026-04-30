@@ -40,7 +40,6 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 
 <br/>
 
---
 
 ## 🌐 Let's Connect 🌐
 
