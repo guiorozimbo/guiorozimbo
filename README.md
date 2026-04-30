@@ -4,6 +4,8 @@
 
 I am a .NET ecosystem specialist focused on building robust, scalable applications. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems.
 
+<br/>
+
 ---
 
 ## 🛠️ What you will find here:
@@ -40,7 +42,9 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
 </div>
 
-<br>
+<br/>
+
+---
 
 ## 🌐 Let's Connect 🌐
 
@@ -56,7 +60,7 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
   </a>
 </div>
 
-<br>
+<br/>
 
 <div align='center'>
   <a href="https://github.com/guiorozimbo">
