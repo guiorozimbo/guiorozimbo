@@ -2,18 +2,23 @@
 
 **Senior Backend Developer | Tech Lead | .NET 6 - 10 & AI Specialist**
 
-I am a .NET ecosystem specialist focused on building robust, scalable applications. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems.
+Since 2023, I've been building high-performance, scalable solutions in the .NET ecosystem. My work spans from modernizing complex legacy systems to launching greenfield projects, utilizing both **Microservices** and **Modular Monoliths** to deliver robust REST APIs and intelligent automation.
 
+---
 
-## 🛠️ What you will find here:
+## 🛠️ Fundamentals & Expertises
+---
 
-*   **Clean Architecture, DDD & MVC:** Focus on high-decoupling and rich domain modeling.
-*   **.NET 6 - 10 & C#:** Deep dive into the Microsoft ecosystem and performance optimizations.
-*   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation.
-*   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**.
+*   **Core Stack:** Extensive experience with **.NET Core**, **C#**, and **ASP.NET** for building scalable REST APIs.
+*   **Architectural Patterns:** Proficient in **Microservices** (gRPC, Message Queues), **Modular Monoliths**, **Clean Architecture**, and **DDD**.
+*   **Database Management:** Skilled in **SQL Server**, **PostgreSQL**, **MySQL**, and **MongoDB**.
+*   **AI & Automation:** Active development using **Python**, **Claude Code**, **Ollama**, and **LangChain** for intelligent systems.
+*   **Infrastructure & DevOps:** Solid knowledge in **Docker**, **Kubernetes**, and CI/CD pipelines.
 
+---
 
 ## 💻 Tech Stack & Tools 💻
+---
 
 ### 🚀 Languages & Frameworks
 <p align="left">
@@ -29,8 +34,10 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Analytics 📊
+---
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
@@ -38,8 +45,8 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 
 <br/>
 
-
 ## 🌐 Let's Connect 🌐
+---
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank">
