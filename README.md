@@ -15,14 +15,14 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 
 ## 💻 Tech Stack & Tools 💻
 
-### 🚀 Languages & Frameworks
+## 🚀 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,angular,php,laravel,mysql,nodejs&theme=dark" />
   </a>
 </p>
 
-### 🤖 AI, DevOps & Ecosystem
+## 🤖 AI, DevOps & Ecosystem
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,py,github,git,vscode,postman,docker,kubernetes,linux,ubuntu,mint,windows&theme=dark" />
