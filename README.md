@@ -4,7 +4,6 @@
 
 Since 2023, I've been building high-performance, scalable solutions in the .NET ecosystem. My work spans from modernizing complex legacy systems to launching greenfield projects, utilizing both **Microservices** and **Modular Monoliths** to deliver robust REST APIs and intelligent automation.
 
----
 
 ## 🛠️ Fundamentals & Expertises
 
@@ -15,7 +14,6 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 *   **AI & Automation:** Active development using **Python**, **Claude Code**, **Ollama**, and **LangChain** for intelligent systems.
 *   **Infrastructure & DevOps:** Solid knowledge in **Docker**, **Kubernetes**, and CI/CD pipelines.
 
----
 
 ## 💻 Tech Stack & Tools 💻
 
@@ -33,7 +31,6 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
   </a>
 </p>
 
----
 
 ## 📊 GitHub Analytics 📊
 
@@ -43,7 +40,7 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 
 <br/>
 
----
+--
 
 ## 🌐 Let's Connect 🌐
 
