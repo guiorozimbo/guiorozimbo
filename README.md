@@ -1,40 +1,48 @@
-# 🏾 Hello, I'm Guilherme Orozimbo!
+# 👋🏾 Hello, I'm Guilherme Orozimbo!
 
 **Senior Backend Developer | Tech Lead | .NET 10 & AI Specialist**
 
-I am a .NET ecosystem specialist focused on building robust, scalable applications. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems.
+I am a .NET ecosystem specialist focused on building robust, scalable applications[cite: 1]. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems[cite: 1].
 
-## 🛠️ What I'm working with:
+## 🛠️ O que você vai encontrar por aqui:
 
 *   **Clean Architecture & DDD:** Focus on high-decoupling and rich domain modeling.
-*   **.NET 10 & C#:** Deep dive into the latest Microsoft features and performance optimizations.
-*   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation and workflow optimization.
-*   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel** to deliver end-to-end solutions.
+*   **.NET 10 & C#:** Deep dive into the latest Microsoft features and performance optimizations[cite: 1].
+*   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation.
+*   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**[cite: 1].
 
-## 💻 Tech Stack & Tools
+---
 
-### Languages & Frameworks
+## 💻 Tech Stack & Tools 💻
+<hr>
+
+### 🚀 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,angular,php,laravel,mysql,nodejs&theme=dark" />
   </a>
 </p>
 
-### AI, DevOps & Ecosystem
+### 🤖 AI, DevOps & Ecosystem
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bot,py,github,git,vscode,postman,docker,linux,ubuntu,fedora,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ai,py,github,git,vscode,postman,docker,linux,ubuntu,fedora,mint,windows&theme=dark" />
   </a>
 </p>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics 📊
+<hr>
+
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
 </div>
 
 <br>
 
-## 🌐 Let's Connect:
+## 🌐 Let's Connect 🌐
+<hr>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank">
