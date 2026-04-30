@@ -4,7 +4,6 @@
 
 I am a .NET ecosystem specialist focused on building robust, scalable applications. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems.
 
----
 
 ## 🛠️ What you will find here:
 
@@ -13,7 +12,6 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 *   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation.
 *   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**.
 
----
 
 ## 💻 Tech Stack & Tools 💻
 
@@ -31,7 +29,6 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
   </a>
 </p>
 
----
 
 ## 📊 GitHub Analytics 📊
 
@@ -41,7 +38,6 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 
 <br/>
 
----
 
 ## 🌐 Let's Connect 🌐
 
