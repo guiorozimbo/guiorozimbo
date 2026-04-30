@@ -7,10 +7,10 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 ---
 
 ## 🛠️ Fundamentals & Expertises
----
 
 *   **Core Stack:** Extensive experience with **.NET Core**, **C#**, and **ASP.NET** for building scalable REST APIs.
 *   **Architectural Patterns:** Proficient in **Microservices** (gRPC, Message Queues), **Modular Monoliths**, **Clean Architecture**, and **DDD**.
+*   **Fullstack & Web:** Advanced studies in **Blazor** (.NET ecosystem), **Angular**, and **Laravel** for versatile application development.
 *   **Database Management:** Skilled in **SQL Server**, **PostgreSQL**, **MySQL**, and **MongoDB**.
 *   **AI & Automation:** Active development using **Python**, **Claude Code**, **Ollama**, and **LangChain** for intelligent systems.
 *   **Infrastructure & DevOps:** Solid knowledge in **Docker**, **Kubernetes**, and CI/CD pipelines.
@@ -18,7 +18,6 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 ---
 
 ## 💻 Tech Stack & Tools 💻
----
 
 ### 🚀 Languages & Frameworks
 <p align="left">
@@ -37,7 +36,6 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 ---
 
 ## 📊 GitHub Analytics 📊
----
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
@@ -45,8 +43,9 @@ Since 2023, I've been building high-performance, scalable solutions in the .NET 
 
 <br/>
 
-## 🌐 Let's Connect 🌐
 ---
+
+## 🌐 Let's Connect 🌐
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank">
