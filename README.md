@@ -4,11 +4,10 @@
 
 I am a .NET ecosystem specialist focused on building robust, scalable applications. My goal is to explore new technologies and apply modern architectural patterns to solve complex business problems.
 
-<br/>
-
 ---
 
 ## 🛠️ What you will find here:
+---
 
 *   **Clean Architecture, DDD & MVC:** Focus on high-decoupling and rich domain modeling.
 *   **.NET 6 - 10 & C#:** Deep dive into the Microsoft ecosystem and performance optimizations.
@@ -16,15 +15,15 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 *   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation.
 *   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**.
 
----
-
 ## 💻 Tech Stack & Tools 💻
+---
 
 ### 🚀 Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,python,js,ts,angular,php,laravel,mysql,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,angular,php,laravel,mysql,nodejs&theme=dark" />
   </a>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
 
 ### 🤖 AI, DevOps & Ecosystem
@@ -34,9 +33,8 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
   </a>
 </p>
 
----
-
 ## 📊 GitHub Analytics 📊
+---
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
@@ -44,9 +42,8 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 
 <br/>
 
----
-
 ## 🌐 Let's Connect 🌐
+---
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank">
