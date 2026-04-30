@@ -6,16 +6,18 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 
 ---
 
-## 🛠️ O que você vai encontrar por aqui:
+## 🛠️ What you will find here:
+<hr>
 
-*   **Clean Architecture, DDD & MVC:** Focus on high-decoupling and rich domain modeling[cite: 1].
-*   **.NET 6 - 10 & C#:** Deep dive into the Microsoft ecosystem and performance optimizations[cite: 1].
+*   **Clean Architecture, DDD & MVC:** Focus on high-decoupling and rich domain modeling.
+*   **.NET 6 - 10 & C#:** Deep dive into the Microsoft ecosystem and performance optimizations.
 *   **AI-Driven Development:** Leveraging **Python**, **Claude Code**, and LLMs for smart automation.
-*   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**[cite: 1].
+*   **Fullstack Versatility:** Advanced studies in **Angular** and **Laravel**.
 
 ---
 
 ## 💻 Tech Stack & Tools 💻
+<hr>
 
 ### 🚀 Languages & Frameworks
 <p align="left">
@@ -34,6 +36,7 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 ---
 
 ## 📊 GitHub Analytics 📊
+<hr>
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiorozimbo&layout=compact&langs_count=8&theme=dark" />
@@ -42,6 +45,7 @@ I am a .NET ecosystem specialist focused on building robust, scalable applicatio
 <br>
 
 ## 🌐 Let's Connect 🌐
+<hr>
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-ramos-b28b6124b" target="_blank">
