@@ -1,6 +1,6 @@
 # 👋🏾 Hello, I'm Guilherme Orozimbo!
 
-**Senior Backend Developer | Tech Lead | .NET 6 - 10 & AI Specialist**
+**Backend Developer | Tech Lead | .NET 6 - 10 & AI Specialist**
 
 Since 2023, I've been building high-performance, scalable solutions in the .NET ecosystem. My work spans from modernizing complex legacy systems to launching greenfield projects, utilizing both **Microservices** and **Modular Monoliths** to deliver robust REST APIs and intelligent automation.
 
